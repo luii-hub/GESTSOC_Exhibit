@@ -516,6 +516,17 @@ mark,
   height: auto;
 }
 
+.img-carmen {
+margin-bottom : 40px;
+}
+
+.img-salcedo {
+margin-bottom : 40px;
+}
+
+.img-sylianco {
+margin-bottom : 1px;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
