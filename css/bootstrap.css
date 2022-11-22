@@ -523,7 +523,21 @@ margin-bottom : 40px;
 .img-salcedo {
 margin-bottom : 40px;
 }
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 
+}
+
+.img-center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
 .img-sylianco {
 margin-bottom : 1px;
 }
